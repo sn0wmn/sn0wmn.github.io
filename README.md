@@ -29,6 +29,6 @@ This portal serves as the primary technical documentation and verification hub f
 For API compliance inquiries, data privacy requests, or technical support, please contact:
 
 * **Primary Developer:** Ollie
-* **Email:** ollie8526 [at] gmail [dot] com
+* **Email:** ollie8526@gmail.com
 * **Location:** Providence, RI
 * **Support:** [GitHub Issues](https://github.com/sn0wmn/sn0wmn.github.io/issues)
