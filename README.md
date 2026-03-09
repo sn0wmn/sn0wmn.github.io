@@ -25,6 +25,15 @@ This portal serves as the primary technical documentation and verification hub f
 
 ---
 
+## Privacy Policy & Data Handling
+In accordance with Developer Terms of Service for integrated APIs (Google, OpenAI, Meta), this project maintains the following privacy standards:
+
+* **Data Minimization:** We only request the minimum "scopes" required for core functionality (e.g., `openid`, `email`).
+* **Storage & Security:** User data is processed in real-time and is not sold or shared with third parties. Any persistent data is encrypted and stored securely via AWS.
+* **User Control:** Users may revoke access or request data deletion at any time by contacting the developer via the email listed below.
+
+---
+
 ## Compliance & Contact
 For API compliance inquiries, data privacy requests, or technical support, please contact:
 
