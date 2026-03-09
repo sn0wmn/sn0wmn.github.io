@@ -31,4 +31,3 @@ For API compliance inquiries, data privacy requests, or technical support, pleas
 * **Primary Developer:** Ollie
 * **Email:** ollie8526@gmail.com
 * **Location:** Providence, RI
-* **Support:** [GitHub Issues](https://github.com/sn0wmn/sn0wmn.github.io/issues)
